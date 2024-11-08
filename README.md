@@ -26,13 +26,15 @@ Time Complexity:
 Best Case: O(n)
 Average Case: O(n^2)
 Worst Case: O(n^2)
-3. Selection Sort
+
+2. Selection Sort
 Description: Sorts an array in ascending order using Selection Sort.
 Time Complexity:
 
 Best Case: O(n^2)
 Average Case: O(n^2)
 Worst Case: O(n^2)
+
 3. Heap Sort
 Description: Sorts an array in ascending order using Heap Sort.
 Time Complexity: O(n log n) for all cases.
@@ -47,6 +49,7 @@ Average/Worst Case: O(n)
 Binary Search:
 Best Case: O(1)
 Average/Worst Case: O(log n)
+
 5. Merge Sort
 Description: Sorts an array in ascending order using Merge Sort.
 Time Complexity: O(n log n) for all cases.
@@ -58,6 +61,7 @@ Time Complexity:
 Best Case: O(n log n)
 Average Case: O(n log n)
 Worst Case: O(n^2)
+
 7. Making Change Problem (Greedy)
 Description: Solves the Making Change problem using a Greedy Algorithm.
 
